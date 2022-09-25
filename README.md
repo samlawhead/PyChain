@@ -23,6 +23,16 @@ Before running the application first install the following dependencies:
 
 ---
 
+## Usage
+
+Here are some sweet screenshots from this badboy. Just type in the sender the and receiver and amount you want to pretend to send to them. You can change the difficulty of each block's hash with the slider on the right. You can validate all the hashes of the entire blockchain by pressing the "Validate Blockchain" button. You can also look at information for each individual block by using the dropdown menu on the sidebar.
+
+<img src=https://github.com/samlawhead/PyChain/blob/main/images/Screen%20Shot%202022-09-25%20at%2015.25.42.png width=500 height=300>
+
+<img src=https://github.com/samlawhead/PyChain/blob/main/images/Screen%20Shot%202022-09-25%20at%2015.26.02.png width=500 height=300>
+
+<img src=https://github.com/samlawhead/PyChain/blob/main/images/Screen%20Shot%202022-09-25%20at%2015.26.24.png width=500 height=300>
+
 ## Contributors
 
 Brought to you by Sam Lawhead.
