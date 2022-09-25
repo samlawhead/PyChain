@@ -29,9 +29,9 @@ Here are some sweet screenshots from this badboy. Just type in the sender the an
 
 <img src=https://github.com/samlawhead/PyChain/blob/main/images/Screen%20Shot%202022-09-25%20at%2015.25.42.png>
 
-<img src=https://github.com/samlawhead/PyChain/blob/main/images/Screen%20Shot%202022-09-25%20at%2015.26.02.png width=500 height=300>
+<img src=https://github.com/samlawhead/PyChain/blob/main/images/Screen%20Shot%202022-09-25%20at%2015.26.02.png>
 
-<img src=https://github.com/samlawhead/PyChain/blob/main/images/Screen%20Shot%202022-09-25%20at%2015.26.24.png width=500 height=300>
+<img src=https://github.com/samlawhead/PyChain/blob/main/images/Screen%20Shot%202022-09-25%20at%2015.26.24.png>
 
 ## Contributors
 
